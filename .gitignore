@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Ignore trained model and encoder files
+ipl_score_model.pkl
+ipl_score_model.keras
+scaler.pkl
+team_encoder.pkl
+venue_encoder.pkl
+loss_plot.png
+

@@ -95,3 +95,5 @@ The model is trained on the `ipl.csv` dataset containing ball-by-ball IPL match 
 ## 📜 License
 
 This project is licensed under the MIT License.
+Updated by Suryansh Agrawal
+

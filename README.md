@@ -49,6 +49,8 @@ IPL-Score-Prediction/
 
 ## 🔧 Installation & Setup
 
+Note: Trained model files are not included due to GitHub size limits. Run the training script to generate them locally.
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/suryanshagrawal21/AI-Based-IPL-Score-Prediction-System.git
@@ -89,7 +91,7 @@ The model is trained on the `ipl.csv` dataset containing ball-by-ball IPL match 
 
 **Suryansh Agrawal**
 -   GitHub: [suryanshagrawal21](https://github.com/suryanshagrawal21)
-
+Updated by Suryansh Agrawal
 ---
 
 ## 📜 License

@@ -6,17 +6,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📸 Screenshots
-
-### Home Page
 ![Home](screenshots/home.png)
-
-### Match Selection
-![Match](screenshots/match.png)
-
-### Prediction Result
+![Match Selection](screenshots/match.png)
 ![Prediction](screenshots/prediction.png)
-
-### Final Output
 ![Result](screenshots/result.png)
 
 This project is a **Machine Learning-based web application** designed to predict the total runs a batting team is likely to score in an IPL (Indian Premier League) match. 

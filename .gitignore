@@ -15,7 +15,7 @@ venv.bak/
 *.pkl
 *.keras
 *.h5
-*.png
+
 
 # Large Models explicitly ignored
 ipl_score_model.pkl

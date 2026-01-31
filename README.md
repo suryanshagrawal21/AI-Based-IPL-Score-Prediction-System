@@ -5,6 +5,17 @@
 ![ML Algorithm](https://img.shields.io/badge/Algorithm-Random%20Forest-green)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<div align="center">
+  <img src="screenshot_home.png" alt="Home Screen" width="100%">
+</div>
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshot_inputs.png" alt="Input Details" width="45%">
+  <img src="screenshot_result.png" alt="Prediction Result" width="45%">
+</div>
+
 This project is a **Machine Learning-based web application** designed to predict the total runs a batting team is likely to score in an IPL (Indian Premier League) match. 
 
 It uses a **Random Forest Regressor** to analyze historical match data and predict accurate scores. The application features a **Premium Glassmorphism UI** built with Streamlit for a modern user experience.
